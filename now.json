@@ -1,0 +1,5 @@
+{
+  "name": "workers",
+  "version": 2,
+  "routes": [{ "src": "/(.*)", "dest": "https://demo.mrabit.workers.dev/$1" }]
+}
